@@ -1,2 +1,8 @@
-# Week1-assignment
-Week 1 Assignment Repository containing foundational exercises on Python, Linear Algebra, Statistics, and Probability completed using Google Colab.
+# Celebal Technologies - Data Science Internship
+
+This repository contains all weekly assignments completed during 
+the Data Science internship at Celebal Technologies.
+
+## Assignments:
+- **Week 1:** Python, NumPy, Pandas, Linear Algebra, Statistics & Probability
+- **Week 2:** End-to-End ML Pipeline on Tesla Deliveries Data (EDA, Feature Engineering, Regression, Time Series Forecasting)
