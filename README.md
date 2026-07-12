@@ -26,12 +26,12 @@ Built an autoencoder to remove noise from MNIST handwritten digits. Achieved 79.
 Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras, Matplotlib, Seaborn, RNN, LSTM, GRU, Autoencoder
 
 ## Results
-•⁠  ⁠Week 3 XGBoost: 100% accuracy
-•⁠  ⁠Week 3 Ensemble: 97.1% accuracy
-•⁠  ⁠Week 4 CNN: 67.86% accuracy
-•⁠  ⁠Week 4 Improvement: 43% over ANN
-•⁠  Week 5 RNN: 96.36%, GRU: 92.73%, LSTM: 72.73% accuracy
-•  Week 6 Autoencoder: 79.27% noise reduction, MSE 0.0087
+  ⁠Week 3 XGBoost: 100% accuracy,
+  ⁠Week 3 Ensemble: 97.1% accuracy,
+⁠  ⁠Week 4 CNN: 67.86% accuracy,
+  ⁠Week 4 Improvement: 43% over ANN,
+  Week 5 RNN: 96.36%, GRU: 92.73%, LSTM: 72.73% accuracy,
+  Week 6 Autoencoder: 79.27% noise reduction, MSE 0.0087,
 
 ## Files
 Each week has its own Jupyter notebook with code and analysis.
