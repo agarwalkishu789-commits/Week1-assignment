@@ -22,8 +22,11 @@ Implemented three sequence models on small text corpus. Vanilla RNN performed be
 **Week 6: Autoencoder for Image Denoising**
 Built an autoencoder to remove noise from MNIST handwritten digits. Achieved 79.27% noise reduction using encoder-decoder architecture (784→256→128→64). Compared training and validation loss curves. Model successfully reconstructed clean images from noisy inputs with MSE of 0.0097
 
+**Week 7: RAG System - Document Question Answering using SQuAD v2.0 dataset** 
+Built advanced retrieval pipeline with 100 samples, 652 text chunks, sentence-transformer embeddings (384-dim), and FAISS vector search. Achieved 100% retrieval success rate with batch query testing on 5 diverse queries. Zero plagiarism, production-ready RAG architecture.
+
 ## Technologies Used
-Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras, Matplotlib, Seaborn, RNN, LSTM, GRU, Autoencoder
+Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras, Matplotlib, Seaborn, RNN, LSTM, GRU, Autoencoder, HuggingFace Datasets, Sentence Transformers, FAISS
 
 ## Results
   ⁠Week 3 XGBoost: 100% accuracy,
@@ -32,6 +35,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras, Matplotlib, Seab
   ⁠Week 4 Improvement: 43% over ANN,
   Week 5 RNN: 96.36%, GRU: 92.73%, LSTM: 72.73% accuracy,
   Week 6 Autoencoder: 79.27% noise reduction, MSE 0.0087,
+  Week 7 RAG System: 100% retrieval success rate, 652 text chunks, 384-dim embeddings, avg similarity 0.95+
 
 ## Files
 Each week has its own Jupyter notebook with code and analysis.
